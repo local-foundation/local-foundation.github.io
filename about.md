@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: we
+permalink: /we/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+*local.foundation* is a community driven initiative that collects and
+shares things we see work in our communities to increase the level of
+entrepreneurship. Resilient communities have a high degree of local
+businesses that are supported by the local community. To create this
+fabric we need to engage the community in the businesses and make them
+part of the process.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
