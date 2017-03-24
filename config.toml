@@ -1,9 +1,10 @@
-baseurl = "http://local.foundation/"
+baseurl = "/"
 title = "local.foundation"
 languageCode = "en-nz"
 theme = "dimension"
 enableRobotsTXT = true
 disableRSS = true
+publishDir = "public"
 
 [params]
   title = "local.foundation"
