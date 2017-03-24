@@ -1,7 +1,7 @@
 +++
 draft = false
 weight = 1
-title = "about"
+title = "manifesto"
 date = "2017-03-25T12:33:29+13:00"
 
 +++
