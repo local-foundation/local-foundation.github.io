@@ -1,0 +1,29 @@
+baseurl = "http://local.foundation/"
+title = "local.foundation"
+languageCode = "en-nz"
+theme = "dimension"
+enableRobotsTXT = true
+disableRSS = true
+
+[params]
+  title = "local.foundation"
+  description = '<!--[-->local.foundation is a Nelson based community group that empowers people to build sustainable businesses<!--]-->'
+  logo = "fa-diamond"
+  copyright = "local.foundation"
+
+[[params.social]]
+  medium = "meetup"
+  icon = "instagram"
+  link = "https://www.meetup.com/localfoundation/"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/local-foundation"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+title = "local.foundation"
+
