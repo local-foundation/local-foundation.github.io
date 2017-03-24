@@ -8,7 +8,7 @@ disableRSS = true
 [params]
   title = "local.foundation"
   description = '<!--[-->local.foundation is a Nelson based community group that empowers people to build sustainable businesses<!--]-->'
-  logo = "fa-diamond"
+  logo = "fa-bullhorn"
   copyright = "local.foundation"
 
 [[params.social]]
