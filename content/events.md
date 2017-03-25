@@ -8,8 +8,7 @@ date = "2017-03-25T12:51:38+13:00"
 
 ## Scheduled Events
 
-### Founders.talk
-*27 April 2017*
+### Founders.talk - 27 April 2017
 Get inspired and learn from people who did it. Local entrepreneurs will share their stories.
 Sign up on [Eventbrite](https://www.eventbrite.com/e/founderstories-nelson-tickets-33168680416)
 
