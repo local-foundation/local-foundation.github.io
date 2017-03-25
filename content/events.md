@@ -8,11 +8,14 @@ date = "2017-03-25T12:51:38+13:00"
 
 ## Scheduled Events
 
+
 ### Founders.talk - 27 April 2017
 Get inspired and learn from people who did it. Local entrepreneurs will share their stories.
 Sign up on [Eventbrite](https://www.eventbrite.com/e/founderstories-nelson-tickets-33168680416)
 
-## Coming up:
+
+## Coming up
+
 
 ### Community Conference - May 2017 
 A national conference bringing together community and business leaders to drive New Zealand’s transformation into a global Startup hub.
