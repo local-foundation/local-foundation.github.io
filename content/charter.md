@@ -6,13 +6,11 @@ date = "2017-03-25T12:33:29+13:00"
 
 +++
 
-# local.foundation
-
 ## Mission
-** Make Nelson the Startup central of New Zealand **
+**Make Nelson the Startup central of New Zealand**
 
 ## Vision 
-** Make New Zealand a global Startup hub **
+**Make New Zealand a global Startup hub**
 
 ## Objectives
 
