@@ -6,8 +6,6 @@ draft = false
 
 +++
 
-## How to contact us
-
 Join us on Slack **localfoundation.slack.com** or use our awesome **[sign-up form](http://slack.local.foundation)**
 
 Find us on **[Meetup](https://www.meetup.com/localfoundation/)**
