@@ -6,10 +6,10 @@ draft = false
 
 +++
 
-##How to contact us:
+## How to contact us
 
-Join our Slack channel localfoundation.slack.com or use our awesome [sign-up form](http://slack.local.foundation)
+Join us on Slack **localfoundation.slack.com** or use our awesome **[sign-up form](http://slack.local.foundation)**
 
-Find us on [Meetup](https://www.meetup.com/localfoundation/)
+Find us on **[Meetup](https://www.meetup.com/localfoundation/)**
 
-Or come to the Prince Alber every Wednesday from 5:30pm (ish)
+Or meet us in person at the **[Prince Albert](http://theprincealbert.co.nz/)** every Wednesday from 5:30pm (ish)
