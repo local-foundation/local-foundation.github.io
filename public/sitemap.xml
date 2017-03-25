@@ -3,8 +3,23 @@
 
   
   <url>
-    <loc>//#about</loc>
+    <loc>//#manifesto</loc>
     <lastmod>2017-03-25T12:33:29+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//#events</loc>
+    <lastmod>2017-03-25T12:51:38+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//#meetups</loc>
+    <lastmod>2017-03-25T12:51:59+13:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//#contact</loc>
+    <lastmod>2017-03-25T12:52:11+13:00</lastmod>
   </url>
   
   <url>
