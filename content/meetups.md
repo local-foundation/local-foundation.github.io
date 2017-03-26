@@ -18,4 +18,4 @@ We meet in Nelson every **Wednesday from 5:30pm (ish)** at **[Prince Albert](htt
 
 **5th Wednesday of each month - Founder Drinks.**  Not all months are created equal.  Sometimes there will be 4 meetups a month, sometimes there will be 5.  When there is a 5th week we'll meet for a drink and a chat about what's going on in your business.  Bring your thoughts, grab a drink and bounce your ideas off 
 
-_Our schedule is flexible, and we have regular special events.  The best way of staying up to date with the changing schedule is by signing up on our **[Meetups Page](https://www.meetup.com/localfoundation/)**_
+*Our schedule is flexible, and we have regular special events.  The best way of staying up to date with the changing schedule is by signing up on our **[Meetups Page](https://www.meetup.com/localfoundation/)** *
