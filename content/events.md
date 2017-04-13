@@ -10,8 +10,9 @@ date = "2017-03-25T12:51:38+13:00"
 
 
 ### founders.talk - 27 April 2017, 6:00pm
-Come and be inspired by 6 local founders who went successfully through the journey from a business idea to reality.
-Learn from their motivation, their business structure, their learnings and what they wished they knew at the beginning.
+Come and be inspired by 4 local founders who went successfully through the journey from a business idea to reality.
+Learn from their motivation, their business structure and what they wished they knew at the beginning.
+Enjoy drinks and nibbles afterwards, talk to people from local.founders and build up your network.
 
 Sign up on [Eventbrite](https://www.eventbrite.com/e/founderstories-nelson-tickets-33168680416)
 
