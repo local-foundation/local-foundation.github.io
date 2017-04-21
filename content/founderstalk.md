@@ -18,6 +18,6 @@ Standard ticket: $20
 
 Supporter ticket + your business logo and banner on the event: $100
 
-*Contact us if you would like an opportunity to volunteer to this event.
+*Contact us if you would like an opportunity to volunteer to this or other events.
 
 
