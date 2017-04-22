@@ -1,6 +1,6 @@
 +++ 
 draft = false 
-weight = 50 
+weight = 10 
 title = "Founders.Talk" 
 date = "2017-03-25T12:51:38+13:00"
 
