@@ -10,7 +10,7 @@ date = "2017-03-25T12:51:38+13:00"
 
 **[Sign up on Eventbrite](https://www.eventbrite.com/e/founderstalk-nelson-tickets-33168680416)**
 
-Event location: Johnny Chash room, G Block, NMIT - 61 / 65 Nile St, Nelson, 7010
+Event location: Johny Cash room, G Block, NMIT - 61 / 65 Nile St, Nelson, 7010
 
 Standard ticket: $20
 
