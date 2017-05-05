@@ -13,3 +13,7 @@ Find us on **[Meetup](https://www.meetup.com/localfoundation/)** or on **[Facebo
 Meet us in person at the **[Prince Albert](http://theprincealbert.co.nz/)** in Nelson every **Wednesday from 5:30pm (ish)**
 
 <div style="position: relative;padding-bottom: 56.25%;padding-top: 35px;height: 0;overflow: hidden;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d749.6249434020656!2d173.29057580904546!3d-41.2762262898936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d3bed07d44e86b3%3A0x9b79399d462994d6!2sThe+Prince+Albert+Backpackers+%26+Bar!5e0!3m2!1sen!2snz!4v1490403784106" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+
+
+##Press articles:
+[25/04/2017: Business group sees Nelson's potential to become New Zealand's Silicon Valley](http://www.stuff.co.nz/business/better-business/91875661/business-group-sees-nelsons-potential-to-become-new-zealands-silicon-valley)
