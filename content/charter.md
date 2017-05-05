@@ -7,10 +7,10 @@ date = "2017-03-25T12:33:29+13:00"
 +++
 
 ## Mission
-**Make Nelson the Startup central of New Zealand**
+**Making Nelson the Startup Centre of New Zealand**
 
 ## Vision 
-**Make New Zealand a global Startup hub**
+**Making New Zealand the Global Startup Hub**
 
 ## Objectives
 
@@ -31,3 +31,7 @@ date = "2017-03-25T12:33:29+13:00"
 * We share knowledge, ideas and thoughts openly
 * We work as a team
 * We do not exploit anyone or anything
+
+## In the News:
+
+[25/04/2017: Business group sees Nelson's potential to become New Zealand's Silicon Valley](http://www.stuff.co.nz/business/better-business/91875661/business-group-sees-nelsons-potential-to-become-new-zealands-silicon-valley)
