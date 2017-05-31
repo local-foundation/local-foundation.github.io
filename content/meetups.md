@@ -1,6 +1,6 @@
 +++
 draft = false
-weight = 30
+weight = 20
 title = "meetups"
 date = "2017-03-25T12:51:59+13:00"
 
