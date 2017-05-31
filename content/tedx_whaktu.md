@@ -8,12 +8,13 @@ date = "2017-03-25T12:51:38+13:00"
 
 We will livestream this years TedX Wellington to Nelson!
 
+<section>
 <h1>Follow TEDx Wellington 2017 from Nelson</h1>
 
 <p>Sign up to our newsletter and we will keep you posted about TEDx Whakatu - the Nelson Livestream event of TEDx Wllington 2017!</p>
 
 
-              <section>   
+                
 
                 <div class="heading">
                   <h3>Contact form</h3>
@@ -21,7 +22,7 @@ We will livestream this years TedX Wellington to Nelson!
 
                 <div id="contact-message"></div>
 
-                <form class="contact-form" method="post" action="https://formspree.io/xx@xx.x">
+                <form class="contact-form" method="post" action="https://formspree.io/nelsonlocalfoundation@gmail.com">
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="form-group">
