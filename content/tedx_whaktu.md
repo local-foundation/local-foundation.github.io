@@ -1,6 +1,6 @@
 +++
 draft = false
-weight = 0
+weight = 10
 title = "TEDx Whakatu"
 date = "2017-03-25T12:51:38+13:00"
 
@@ -9,13 +9,11 @@ date = "2017-03-25T12:51:38+13:00"
 We will livestream this years TedX Wellington to Nelson!
 
 <section>
+               
 
-                
+<h1>Follow TEDx Wellington 2017 from Nelson</h1>
 
-<h1 id="ready-to-get-on-street-view-we-provide-free-quotes">Ready to get on Street View? We provide free quotes!</h1>
-
-<p>Drop us a line and we will be in touch in no time! For any immidate questions call us on <a style="color: #2aaf8d;" href="tel:0211878043">021 187 8043</a>.
-<br></p>
+<p>Sign up to our newsletter and we will keep you posted about TEDx Whakatu - the Nelson Livestream event of TEDx Wllington 2017!</p>
 
 
               <section>   
