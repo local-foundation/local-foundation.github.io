@@ -1,12 +1,12 @@
 +++ 
 draft = false 
-weight = 10 
+weight = 30 
 title = "Founders.Talk" 
 date = "2017-03-25T12:51:38+13:00"
 
 +++
 
-**27 April 2017, 6:00pm**
+**This is a past Event from 27 April 2017, 6:00pm**
 
 **[Sign up on Eventbrite](https://www.eventbrite.com/e/founderstalk-nelson-tickets-33168680416)**
 
