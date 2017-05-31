@@ -8,9 +8,6 @@ date = "2017-03-25T12:51:38+13:00"
 
 We will livestream this years TedX Wellington to Nelson!
 
-<section>
-               
-
 <h1>Follow TEDx Wellington 2017 from Nelson</h1>
 
 <p>Sign up to our newsletter and we will keep you posted about TEDx Whakatu - the Nelson Livestream event of TEDx Wllington 2017!</p>
@@ -50,7 +47,3 @@ We will livestream this years TedX Wellington to Nelson!
                 
 
             </section>
-            
-            <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-            
-            <script src="//code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
