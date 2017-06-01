@@ -6,7 +6,12 @@ date = "2017-03-25T12:51:38+13:00"
 
 +++
 
-We will livestream this years TEDx Wellington 2017 to Nelson!
+Yes! You read it right: TEDx Wellington in Whakatu!! 
+
+On the 18th of June, we'll be live streaming the full day TEDxWellington event, plus offering the local community an exclusive experience, speakers, workshops, and more!
+
+You don't wanna miss it! 
+Subscribe below and we'll keep you posted with info re (FREE) tickets and event schedule.
 
 <section>
 <h1>Follow TEDx Wellington 2017 from Nelson</h1>
