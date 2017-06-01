@@ -1,7 +1,7 @@
 +++
 draft = false
 weight = 10
-title = "TEDx Whakatu"
+title = "TEDx Wellington in Whakatu"
 date = "2017-03-25T12:51:38+13:00"
 
 +++
