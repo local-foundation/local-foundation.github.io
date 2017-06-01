@@ -14,13 +14,6 @@ You don't wanna miss it!
 Subscribe below and we'll keep you posted with info re (FREE) tickets and event schedule.
 
 <section>
-<h1>Follow TEDx Wellington 2017 from Nelson</h1>
-
-<p>Sign up to our newsletter and we will keep you posted about TEDx Whakatu - the Nelson Livestream event of TEDx Wellington 2017!</p>
-
-
-                
-
                 <div class="heading">
                   <h3>Contact form</h3>
                 </div>
