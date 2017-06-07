@@ -1,7 +1,7 @@
 +++
 draft = false
 weight = 10
-title = "TEDx Wellington in Whakatu"
+title = "TEDx Welly"
 date = "2017-03-25T12:51:38+13:00"
 
 +++
@@ -11,6 +11,9 @@ Yes! You read it right: TEDx Wellington in Whakatu!!
 On the 18th of June, we'll be live streaming the full day TEDxWellington event, plus offering the local community an exclusive experience, speakers, workshops, and more!
 
 You don't wanna miss it! 
+
+Free tickets become available on 12th June, 1pm here:  https://www.eventbrite.com/e/tedxwellington-in-whakatu-tickets-35198214808
+
 Subscribe below and we'll keep you posted with info re (FREE) tickets and event schedule.
 
 <section>
