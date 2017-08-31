@@ -6,9 +6,9 @@ date = "2017-08-28T12:51:38+13:00"
 
 +++
 
-## Startup Weekend Nelson is back for it's 3rd round! - Fri, 5:30pm, 8 Sept - Sun, 10 Sep, 8:00pm
+### Startup Weekend Nelson is back for it's 3rd round! - Fri, 5:30pm, 8 Sept - Sun, 10 Sep, 8:00pm
 
-# Tickets and details on [Eventbrite] (https://www.eventbrite.com/e/startup-weekend-nelson-2017-tickets-36996783375)
+#### Tickets and details on [Eventbrite] (https://www.eventbrite.com/e/startup-weekend-nelson-2017-tickets-36996783375)
 
 Location: T Block (T301) Nelson Marlborough Institute of Technology (NMIT), 69 Nile Street, Nelson, 7010
 
@@ -19,4 +19,5 @@ So, what is it all about? In short, take a weekend off, it's going to be rainy a
 We will guarantee you fun, tons of learning that you can apply in day to day life and maybe we even get one or two companies that carry on.
 
 For all event details, please visit http://communities.techstars.com/events/11502.
+
 Any questions, please email the team at nelson@startupweekend.org
